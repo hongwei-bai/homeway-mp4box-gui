@@ -1,10 +1,9 @@
-package hongwei.mp4boxgui.view;
+package homeway.mp4boxgui.view;
 
-import hongwei.mp4boxgui.Constants;
-import hongwei.mp4boxgui.controller.SplitController;
-import hongwei.mp4boxgui.model.Mp4boxCommand;
-import hongwei.mp4boxgui.model.Mp4boxParser;
-import hongwei.mp4boxgui.view.InputPanel.ActionObserver;
+import homeway.mp4boxgui.Constants;
+import homeway.mp4boxgui.controller.SplitController;
+import homeway.mp4boxgui.model.Mp4boxCommand;
+import homeway.mp4boxgui.model.Mp4boxParser;
 
 import javax.swing.*;
 import java.awt.*;
@@ -55,7 +54,7 @@ public class Gui extends JFrame {
             setTitleForCompletionNotification(false);
         });
 
-        mInputPanel.setActionObserver(new ActionObserver() {
+        mInputPanel.setActionObserver(new InputPanel.ActionObserver() {
 
             @Override
             public void onError(String msg) {

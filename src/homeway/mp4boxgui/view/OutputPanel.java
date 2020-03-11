@@ -1,4 +1,4 @@
-package hongwei.mp4boxgui.view;
+package homeway.mp4boxgui.view;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package hongwei.mp4boxgui.model;
+package homeway.mp4boxgui.model;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

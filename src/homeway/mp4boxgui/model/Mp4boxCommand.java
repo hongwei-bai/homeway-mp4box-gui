@@ -1,4 +1,4 @@
-package hongwei.mp4boxgui.model;
+package homeway.mp4boxgui.model;
 
 public class Mp4boxCommand {
     public static String info(String path) {

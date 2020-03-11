@@ -1,4 +1,4 @@
-package hongwei.mp4boxgui.model;
+package homeway.mp4boxgui.model;
 
 import java.io.BufferedReader;
 import java.io.IOException;

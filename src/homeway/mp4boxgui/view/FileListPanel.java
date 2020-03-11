@@ -1,7 +1,6 @@
-package hongwei.mp4boxgui.view;
+package homeway.mp4boxgui.view;
 
-import hongwei.mp4boxgui.Constants;
-import hongwei.mp4boxgui.view.DragUtil.DragObserver;
+import homeway.mp4boxgui.Constants;
 
 import javax.swing.*;
 import java.awt.*;
@@ -143,7 +142,7 @@ public class FileListPanel extends JPanel {
     }
 
     private void initListener() {
-        DragObserver dragObserver = new DragObserver() {
+        DragUtil.DragObserver dragObserver = new DragUtil.DragObserver() {
 
             @Override
             public void onDrag(List<File> list) {

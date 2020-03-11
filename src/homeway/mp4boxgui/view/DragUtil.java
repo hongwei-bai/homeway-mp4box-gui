@@ -1,4 +1,4 @@
-package hongwei.mp4boxgui.view;
+package homeway.mp4boxgui.view;
 
 import java.awt.datatransfer.DataFlavor;
 import java.awt.dnd.DnDConstants;

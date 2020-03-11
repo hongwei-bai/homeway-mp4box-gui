@@ -1,8 +1,8 @@
-package hongwei.mp4boxgui.controller;
+package homeway.mp4boxgui.controller;
 
-import hongwei.mp4boxgui.model.CommandObserver;
-import hongwei.mp4boxgui.model.Mp4boxCommand;
-import hongwei.mp4boxgui.model.Mp4boxParser;
+import homeway.mp4boxgui.model.CommandObserver;
+import homeway.mp4boxgui.model.Mp4boxCommand;
+import homeway.mp4boxgui.model.Mp4boxParser;
 
 import java.io.File;
 import java.util.ArrayList;

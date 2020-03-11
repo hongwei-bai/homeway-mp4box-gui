@@ -1,7 +1,7 @@
-package hongwei.mp4boxgui.view;
+package homeway.mp4boxgui.view;
 
-import hongwei.mp4boxgui.model.Command;
-import hongwei.mp4boxgui.model.Mp4boxParser;
+import homeway.mp4boxgui.model.Command;
+import homeway.mp4boxgui.model.Mp4boxParser;
 
 import javax.swing.*;
 import java.awt.*;

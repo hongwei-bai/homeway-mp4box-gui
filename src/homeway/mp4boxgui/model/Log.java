@@ -1,4 +1,4 @@
-package hongwei.mp4boxgui.model;
+package homeway.mp4boxgui.model;
 
 public class Log {
     public static void d(String msg) {
