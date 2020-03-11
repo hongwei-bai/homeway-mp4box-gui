@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mp4boxgui:jar">
+    <output-path>D:/Run</output-path>
+    <root id="archive" name="mp4boxgui.jar">
+      <element id="module-output" name="mp4boxgui" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/djnativeswing-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/djnativeswing-swtapi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/djnativeswing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/swt-win-x64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/metadata-extractor-master_bhw.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

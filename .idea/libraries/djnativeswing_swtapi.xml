@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="djnativeswing-swtapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/djnativeswing-swtapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/swt-win-x64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/metadata-extractor-master_bhw.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../libs/metadata-extractor-master_bhw.jar!/Samples" />
+      <root url="jar://$PROJECT_DIR$/../libs/metadata-extractor-master_bhw.jar!/Tests" />
+    </SOURCES>
+  </library>
+</component>
